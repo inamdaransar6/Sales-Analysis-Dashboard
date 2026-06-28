@@ -52,13 +52,19 @@ The dashboard provides actionable insights through multiple report pages, enabli
 * Sales Analysis Dashboard.pbix
 * README.md
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-images/
-├── "C:\Users\inamd\Downloads\Sales Dashboard Pages\Overview.png"
-├── "C:\Users\inamd\Downloads\Sales Dashboard Pages\Timely_Analysis.png"
-├── "C:\Users\inamd\Downloads\Sales Dashboard Pages\Country-wise-Analysis.png"
-└── "C:\Users\inamd\Downloads\Sales Dashboard Pages\Top_Customers_Products.png"
+### Overview
+![Overview](Overview.png)
+
+### Timely Analysis
+![Timely Analysis](Timely_Analysis.png)
+
+### Country-wise Analysis
+![Country-wise Analysis](Country-wise-Analysis.png)
+
+### Top Products & Customers
+![Top Products & Customers](Top_Customers_Products.png)
 
 🎯 Business Value
 * This dashboard helps stakeholders:
